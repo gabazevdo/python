@@ -77,3 +77,28 @@ Os tipos de dados padrão do Python são:
 
 --- 
 
+<br>
+
+## Meios de estudo/acompanhamento
+
+### Canais no Youtube
+
+- [Curso em Vídeo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&ab_channel=CursoemV%C3%ADdeo) - Acompanhei aos poucos - a pasta inserida no repositório foi enviada por um colega (apenas para acompanhar)
+
+
+- [Didática Tech](https://www.youtube.com/watch?v=bHn91RxiTjY&list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD&index=1&ab_channel=Did%C3%A1ticaTech) - 
+Este curso, acompanhei até o fim
+
+- [Configurando o VsCode](https://www.youtube.com/watch?v=ZQ60SJDACuc&t=491s&ab_channel=Ot%C3%A1vioMiranda) - Otavio Miranda
+
+<br>
+
+### Vídeos com temas específicos
+
+<br>
+
+- [Programação Dinâmica](https://www.youtube.com/watch?v=zsACB0QhMVc&ab_channel=Programa%C3%A7%C3%A3oDin%C3%A2mica) - Visualizando TWEETS com Nuvens de Palavras
+
+- [Eduardo Mendes](https://www.youtube.com/watch?v=kT85FfTE22E&t=1194s&ab_channel=EduardoMendes) - Manipulando imagens com Pillow
+
+- [CodingEntrepreneurs](https://www.youtube.com/watch?v=dvAurfBB6Jk&t=941s&ab_channel=CodingEntrepreneurs) - Twitter API with Tweepy
